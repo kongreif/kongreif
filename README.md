@@ -4,3 +4,4 @@
 - 🧪 Always tinkering with my setup. Check out my [config](https://github.com/kongreif/.cfg) including my NeoVim setup
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kongreif&theme=dracula)](https://github.com/kongreif/github-readme-stats)
+[![KonGreif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongreif)](https://github.com/kongreif/github-readme-stats)
